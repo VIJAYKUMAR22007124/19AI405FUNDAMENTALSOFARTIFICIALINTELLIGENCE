@@ -61,8 +61,11 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>Find its Successors Or neighbors and Check whether the node is visited or not</li>
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
+
 <H3>Program:<H3>
-<b>
+ 
+```
+
  from collections import defaultdict
 def dfs(graph,start,visited,path):
     path.append(start)
@@ -84,7 +87,8 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
-</b>
+ ```
+
 
 <hr>
 <h3>Sample Input</h3>
@@ -102,7 +106,8 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
+
+![image](https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/95fb3cd1-c46c-4bc0-b153-7d75ecca988f)
 
 <hr>
 
@@ -118,7 +123,8 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['0', '1', '2', '3', '4']
+
+![image](https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/fe80b327-0443-4524-a70c-711b1771a48a)
 
 <hr>
 <h3>Result:</h3>
