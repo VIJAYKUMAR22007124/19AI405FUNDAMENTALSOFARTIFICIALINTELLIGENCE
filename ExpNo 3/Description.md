@@ -1,55 +1,52 @@
 <h1>ExpNo 3 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: VIJAY KUMAR B</h3>
+<h3>Register Number: 212222230173</h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
-// A* Search Algorithm
+
+A* Search Algorithm
 1.  Initialize the open list
 2.  Initialize the closed list
     put the starting node on the open 
     list (you can leave its f at zero)
 
-3.  while the open list is not empty
+3.  while the open list is not empty<br>
     a) find the node with the least f on 
-       the open list, call it "q"
+       the open list, call it "q"<br>
 
-    b) pop q off the open list
+    b) pop q off the open list<br>
   
     c) generate q's 8 successors and set their 
-       parents to q
+       parents to q<br>
    
-    d) for each successor
-        i) if successor is the goal, stop search
-        
-        ii) else, compute both g and h for successor
+    d) for each successor<br>
+         i) if successor is the goal, stop search<br>
+         ii) else, compute both g and h for successor
           successor.g = q.g + distance between 
                               successor and q
           successor.h = distance from goal to 
           successor (This can be done using many 
           ways, we will discuss three heuristics- 
           Manhattan, Diagonal and Euclidean 
-          Heuristics)
-          
-          successor.f = successor.g + successor.h
-
-        iii) if a node with the same position as 
+          Heuristics)<br>
+          successor.f = successor.g + successor.h<br>
+         iii) if a node with the same position as 
             successor is in the OPEN list which has a 
-           lower f than successor, skip this successor
-
-        iV) if a node with the same position as 
+           lower f than successor, skip this successor<br>
+         iV) if a node with the same position as 
             successor  is in the CLOSED list which has
             a lower f than successor, skip this successor
-            otherwise, add  the node to the open list
-     end (for loop)
+            otherwise, add  the node to the open list<br>
+      end (for loop)<br>
   
     e) push q on the closed list
-    end (while loop)
+    end (while loop)<br>
 <hr>
 <h2>Sample Graph I</h2>
 <hr>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
+<img src="https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a" width = 450 height = 450>
 
 <hr>
 <h2>Sample Input</h2>
@@ -88,9 +85,8 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
-
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
-
+ 
+<img src="https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3" width=450 height=450>
 
 <hr>
 <h2>Sample Input</h2>
