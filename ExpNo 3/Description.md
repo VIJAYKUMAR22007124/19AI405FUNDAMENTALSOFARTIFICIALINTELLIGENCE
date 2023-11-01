@@ -42,6 +42,11 @@ A* Search Algorithm
   
     e) push q on the closed list
     end (while loop)<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <hr>
 <h2>Sample Graph I</h2>
 <hr>
@@ -82,7 +87,13 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br><br><br><br>
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
