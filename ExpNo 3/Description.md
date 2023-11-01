@@ -2,7 +2,7 @@
 <h3>Name: VIJAY KUMAR B</h3>
 <h3>Register Number: 212222230173</h3>
 <H3>Aim:</H3>
-<p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
+<p>To Implement A* Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
 
 A* Search Algorithm
@@ -78,6 +78,7 @@ I 1 <br>
 J 0 <br>
 <hr>
 <h2>Sample Output</h2>
+<img src="https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/cbef51e6-dac3-49f4-80ba-ccceed417012" width=750 height=450>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
@@ -106,5 +107,9 @@ D 1 <br>
 G 0 <br>
 <hr>
 <h2>Sample Output</h2>
+<img src="https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/ab01d3d5-0a6e-46cd-acf1-4ed018b0bd0e" width=750 height=450)<br>
 <hr>
-Path found: ['A', 'E', 'D', 'G']
+<br>
+
+<h2>Result:</h2> 
+  Sucessfully Implemented A* Search algorithm for a Graph using Python. 
