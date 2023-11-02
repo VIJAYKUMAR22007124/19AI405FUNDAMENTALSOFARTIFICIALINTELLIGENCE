@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: B VIJAY KUMAR</h3>
+<h3>Register Number: 212222230173</h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
@@ -72,10 +72,14 @@ Begin<br>
    return false<br>
 End<br>
 <hr>
-<h2>Sample Input and Output:</h2>
+<h2>Sample Input</h2>
 SEND = 9567<br>
 MORE = 1085<br>
 <hr>
+<h2>
+    Output:
+</h2>
+<img src="https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/e5191759-7cce-4af5-97f0-74ca445a8f8d" width=800 height=500>
 MONEY = 10652<br>
 <hr>
 <h2>Result:</h2>
