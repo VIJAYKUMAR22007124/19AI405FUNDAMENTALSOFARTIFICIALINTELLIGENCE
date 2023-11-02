@@ -41,7 +41,7 @@ Feedback is provided in terms of heuristic function
 <hr>
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
-<img src="https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/f2b49938-782b-49c3-a8eb-420c36001a84" width=950 height=650>
+<img src="https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/f2b49938-782b-49c3-a8eb-420c36001a84" width=950 height=450>
 <br>
 <h2>Result:</h2>
 Successfully Implemented Simple Hill Climbing Algorithm and Generateed a String by Mutating a Single Character at each iteration.
