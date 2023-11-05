@@ -105,7 +105,7 @@ if solution:
 else:
     print("No solution found.")
 ```
-<h2>Sample Input</h2>
+<h2>Input</h2>
 SEND = 9567<br>
 MORE = 1085<br>
 <hr>
