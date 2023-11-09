@@ -189,9 +189,9 @@ I 1 <br>
 J 0 <br>
 <hr>
 <h2>Output</h2>
-<img src="https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/cbef51e6-dac3-49f4-80ba-ccceed417012" width=750 height=450>
-<hr>
-Path found: ['A', 'F', 'G', 'I', 'J']
+
+![image](https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/d5fa3de4-374d-4599-bc3e-fce335a2289b)
+
 
 <br>
 <br>
