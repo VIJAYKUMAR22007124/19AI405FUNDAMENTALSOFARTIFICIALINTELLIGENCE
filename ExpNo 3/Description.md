@@ -192,15 +192,6 @@ J 0 <br>
 
 ![image](https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/d5fa3de4-374d-4599-bc3e-fce335a2289b)
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br><br><br><br><br>
-<hr>
 <h2>Sample Graph II</h2>
 <hr>
  
@@ -224,8 +215,9 @@ D 1 <br>
 G 0 <br>
 <hr>
 <h2>Output</h2>
-<img src="https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/ab01d3d5-0a6e-46cd-acf1-4ed018b0bd0e" width=750 height=450)<br>
-<hr>
+
+![image](https://github.com/VIJAYKUMAR22007124/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119657657/b3c39ce3-ab0b-4854-ae33-c68503fab2a6)
+
 <br>
 
 <h2>Result:</h2> 
